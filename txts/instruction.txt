@@ -1,0 +1,12 @@
+ brew install portaudio
+
+    pip install --upgrade pip setuptools wheel
+   pip install pyaudio --only-binary :all:
+
+   brew install flac
+
+
+pip install openai-whisper
+pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+pip install git+https://github.com/openai/whisper.git 

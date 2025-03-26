@@ -1,0 +1,75 @@
+experince with companies
+AI ML Engineer , Dassault Systèmes
+PUNE
+July 2022–Present
+ IS -AI -Assistant : Hosted LLM in house & Built Secured FastAPI LLM end-
+
+
+points for consumer applications text translation and information extraction,
+supporting custom parameters, system prompts,JSON mode.
+• Digital Wallet Employed Mixtral nemo for expense categorization, reducing
+manual effort for 20K employees. An effective LLM prompts improved data
+extraction accuracy.
+• Built a robust Backend using Jakarta EE and Python, authentication & inte-
+grating Pytesseract OCR, Large Language Models and DSX Finance micro-
+services for automated receipt processing.
+• Generative AI LLM RAG Chatbot: Engineered a RAG chatbot for project
+development based on precise requirement specifications from cofluence,
+leveraging LlamaIndex and internally hosted Mixtral APIs to enhance user
+interaction and data retrieval efficiency.
+• Lead Odds Win Forecasting: Completed a POC on lead odds win forecast-
+ing using decision tree algorithms, achieving 88 % accuracy
+
+Intern – Software Development Engineer in Test , Nvidia
+PUNE
+Jan 2022–Jun 2022
+• Created a Bug Automation Tool (BAT) parser, enabling the automatic capture
+of error signs, system information, and regression details from logs.
+• Automated the generation of report emails using Python, resulting in a signifi-
+cant reduction of manual effort by saving approximately 3 hours per week.
+• Worked on an NLP problem to recommend Bug modules based on synopsis
+and error signatures while autonomously filling bugs.
+ML Research Intern – University of Limerick, Ireland,
+WFH
+Nov 2021–May 2022
+• Energy Demand & Production Forecasting: Developed machine learn-
+ing models to forecast energy demand in the transport sector, specifically for
+Electric Vehicles (EVs), and predict energy production from wind energy.
+• Utilized regression and time series models, including SARIMA, ARMAX,
+ARIMA, ANN to achieve high accuracy in predictions. PAPER LINK
+SKILLS
+Programming: Java, Python, C++
+ML & DL:Neural Networks,TensorFlow,PyTorch,scikit
+learn
+Gen AI:Langchain, Lamma Index,OpenAI
+API
+Tools: AWS,Docker, Kubernetes, Git
+Data Structures,Problem solving
+Web: Jakarta EE,JavaScript ,Spring Boot
+Databases & ORM: Hibernate,MySQL,NuoDb
+SQL
+ACHIEVEMENTS
+• Published prize winning article “Search-
+ing news from Old Newspaper using
+NLP” on Geeksforgeeks. ARTICLE LINK
+• Solved 200+ DSA question on sites
+LeetCode Hackerank,
+• 7 Answers,173+ Reputation and 46k+
+Reached on Stack Overflow
+PUBLICATIONS
+Published research paper at SMART-
+GREENS22 11th international conference
+PAPER LINK
+CERTIFICATES
+• Problem Solving (Basic) Certificate
+Hackerank
+• Neural Networks and Deep Learning
+Coursera
+PROJECTS
+LinkedIn Post Categorization In bookmarks
+[JAN 2025 - FEB 2025] –
+• Developed a high-performance AI-Powered Chrome extension using JavaScript,
+LLM API for one-click bookmarking and content categorization of LinkedIn
+Posts.
+• Integrated AI-powered categorization via Ollama and Groq API for LLM
+calls, Bookmarks will be stored in Chrome browser. GitHub-Code

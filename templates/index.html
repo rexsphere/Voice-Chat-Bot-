@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Voice Bot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Personal Voice Bot</h1>
+        <div class="chat-container" id="chatContainer">
+            <div class="message bot">Hello! I'm your personal voice assistant. Ask me anything!</div>
+        </div>
+        <div class="controls">
+            <button id="startBtn" class="btn">Start Listening</button>
+            <button id="resetBtn" class="btn">Reset Conversation</button>
+        </div>
+        <div id="status" class="status">Ready</div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
+            
